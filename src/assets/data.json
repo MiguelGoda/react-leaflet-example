@@ -1,0 +1,36 @@
+{
+  "places": [
+    {
+      "description":"proyecto LXII",
+      "name": "Miguel Angel Goda Molina",
+      "geometry":[
+        -11.027589,
+        -68.760469
+      ]
+    },
+    {
+      "description":"proyecto LXII",
+      "name": "Jose Antonio Guerra",
+      "geometry":[
+        -11.022616,
+        -68.756817
+      ]
+    },
+    {
+      "description":"proyecto LXII",
+      "name": "Marcela Aguilar",
+      "geometry":[
+        -11.025461,
+        -68.761683
+      ]
+    },
+    {
+      "description":"proyecto LXIII",
+      "name": "Vianka Suarez",
+      "geometry":[
+        -11.023667,
+        -68.762487
+      ]
+    }
+  ]
+}
